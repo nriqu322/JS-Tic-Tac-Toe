@@ -21,7 +21,7 @@ This is a tic-tac-toe game for two players with retro style.
 * [Bootstrap](https://getbootstrap.com/)
 
 ## Live Version
-Check the live version [here](https://rawcdn.githack.com/HeflerDev/JavasCript-Tic-Tac-Toe/4f87347bdaa5dcc935aff855295efc24b2be8492/index.html).
+Check the live version [here](https://rawcdn.githack.com/nriqu322/JS-Tic-Tac-Toe/673a24ceea386eac2bbb48b592fef4105fe0020d/dist/index.html).
 
 ![screenshot](src/resources/screenshot.png)
 
